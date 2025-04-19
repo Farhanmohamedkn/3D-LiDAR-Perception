@@ -1,1 +1,2 @@
-# 3D-LiDAR-Perception
+# 3D LiDAR Visualization using Open3D: KITTI Depth Frames Case Study
+This repository provides a Jupyter Notebook implementation for generating and visualizing 3D point cloud data using the Open3D library. The visualization is based on 2D depth frames from the popular KITTI dataset, commonly used in autonomous driving research.
